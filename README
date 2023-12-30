@@ -1,0 +1,7 @@
+Names: Jonathan Adams, Yukun Duan, Jake Smith
+
+How to compile:
+call "gcc -O3 -mavx2 -std=gnu99 -o db5242 db5242.c"
+at the command line in the directory where the file
+"db5242.c" is located
+
